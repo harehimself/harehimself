@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="harehimself.png" alt="HareHimself Profile" width="300"/>
+</div>
 
 <!--
 **harehimself/harehimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
