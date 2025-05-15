@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="harehimself.png" alt="HareHimself Profile" width="300"/>
+  <img src="harehimself.png" alt="HareHimself Profile"/>
 </div>
 
 <!--
