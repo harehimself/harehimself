@@ -2,15 +2,7 @@
   <img src="harehimself.png" alt="HareHimself Profile"/>
 </div>
 
-<br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harehimself&layout=compact&theme=tokyonight&hide_border=true" alt="Languages Utilized" />
-
-</div>
-
-<div align="center">
 <br/>
 
 <h3>Let's Connect</h3>
