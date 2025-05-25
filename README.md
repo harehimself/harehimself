@@ -6,8 +6,6 @@
 
 <div align="center">
 
-![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harehimself&show_icons=true&theme=tokyonight&hide_border=true)
-<br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harehimself&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -16,9 +14,9 @@
 
 ### 📚 Current Focus
 
-- ⚙️ LangGraph & LangChain agent orchestration  
-- 🧠 Structured reasoning + memory in LLM apps  
-- 🎙️ Real-time voice analytics (Deepgram + Pinecone)
+- LangGraph & LangChain agent orchestration  
+- Structured reasoning + memory in LLM apps  
+- Real-time voice analytics (Deepgram + Pinecone)
 
 ---
 
@@ -40,9 +38,12 @@
 </a>
 
 </div>
+<div align="center">
+  
+![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harehimself&show_icons=true&theme=tokyonight&hide_border=true)
+<br/><br/>
 
-
-
+</div>
 
 
 
