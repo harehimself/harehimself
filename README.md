@@ -5,7 +5,9 @@
 
 <br/>
 
-<h3>Let's Connect</h3>
+<div align="center">
+  
+<h3>Let's Connect!</h3>
 
 <a href="https://linkedin.com/in/mike-hare">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
