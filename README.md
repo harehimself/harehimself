@@ -4,6 +4,20 @@
 
 <div align="center">
 
+![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harehimself&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harehimself&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+### 📚 Current Focus
+
+- LangGraph, LangChain agents
+- Real-time voice analytics
+- Structured reasoning + memory in LLM apps
+
+
+<div align="center">
+
 ### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mike-hare)
