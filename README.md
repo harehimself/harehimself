@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harehimself&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
+<br/>
 ---
 
 ### 📚 Current Focus
@@ -21,6 +21,8 @@
 ---
 
 <div align="center">
+<br/>
+<br/>
 
 <h3>Let's Connect</h3>
 
