@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harehimself&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harehimself&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 
 </div>
 
