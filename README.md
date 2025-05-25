@@ -38,12 +38,6 @@
 </a>
 
 </div>
-<div align="center">
-  
-![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harehimself&show_icons=true&theme=tokyonight&hide_border=true)
-<br/><br/>
-
-</div>
 
 
 
